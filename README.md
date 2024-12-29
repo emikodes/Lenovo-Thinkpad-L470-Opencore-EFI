@@ -11,13 +11,17 @@ Disclaimer: I'm not responsible for any damage you may cause, use this at your o
 
 ---
 
-| My Specs:                                      |
+| My Specs:                                   |
 |---------------------------------------------|
 | Intel Core i5-6200u                         | 
 | Intel HD 520 Graphics                       |
 | 8GB DDR4 RAM (2133MHz)                      |
 | 256GB SSD                                   |
 | 1920x1080 14 inches                         |
+
+Works with both configurable Intel Wifi Cards:
+- Intel Dual Band Wireless-AC 8260, Wi-Fi 2x2 802.11ac + BT4.1, M.2 card
+- Intel Dual Band Wireless-AC 8265, Wi-Fi 2x2 802.11ac + BT4.1, M.2 card
 
 # How to use this?
 
