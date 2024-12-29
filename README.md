@@ -1,12 +1,11 @@
 # Lenovo-Thinkpad-L470-Opencore-EFI
 Opencore EFI for installing Mac OS Big Sur on Lenovo Thinkpad L470
+
+
+
 <img src="https://m.media-amazon.com/images/I/51TwKqhakhS.jpg" alt="Lenovo Thinkpad L470 image"/>
 
 **Tested on Mac OS Big Sur**, Fully working + iServices.
-
-This was my first time ever making an EFI, with lots of errors and unused entries.
-
-Take this repository as an example to follow, but *I would not personally recommend using this as is.*
 
 Disclaimer: I'm not responsible for any damage you may cause, use this at your own risk (I Strongly recommend making your own EFI).
 
